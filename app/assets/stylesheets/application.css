@@ -13,3 +13,21 @@
  *= require_tree .
  *= require_self
  */
+
+.label-highlight {
+  font-size: 100% !important;
+  font-weight: inherit !important;
+  font-style: inherit !important;
+  color: #333 !important;
+  background: #fff401 !important;
+}
+
+div.pagination {
+  text-align: center;
+  display: block;
+}
+
+div.pagination ul {
+  display: inline-block;
+}
+
