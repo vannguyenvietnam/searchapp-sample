@@ -57,3 +57,4 @@ gem 'elasticsearch-rails', git: 'git://github.com/elasticsearch/elasticsearch-ra
 gem 'quiet_assets', group: 'development'
 
 gem 'oj'
+gem 'pry', group: 'development'
